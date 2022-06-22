@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Букет сирени",
+    "price": 4500.0,
+    "honoraryCode": "655f2015",
+    "state": "sold"
+  },
+  {
+    "id": 2,
+    "name": "После дождя",
+    "price": 1000.0,
+    "state": "in_stock"
+  },
+  {
+    "id": 3,
+    "name": "Древо жизни",
+    "price": 7500.0,
+    "state": "in_stock"
+  },
+  {
+    "id": 4,
+    "name": "Два дома",
+    "price": 4300.0,
+    "state": "in_stock"
+  },
+  {
+    "id": 5,
+    "name": "История любви",
+    "price": 10000.0,
+    "state": "in_stock"
+  }
+]
